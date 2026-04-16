@@ -275,6 +275,11 @@ footer small {
     display: block;
 }
 
+footer small a {
+    margin: 0;
+    font-size: inherit;
+}
+
 /* ════════ Entrance Animations ════════ */
 
 @media (prefers-reduced-motion: no-preference) {
